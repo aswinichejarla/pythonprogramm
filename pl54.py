@@ -1,5 +1,5 @@
-s1,s2=map(str,raw_input().split())
-if(s1==s2):
+s3,s4=map(str,raw_input().split())
+if(s3==s4):
     print "yes"
 else:
     print "no"
